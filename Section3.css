@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.cards{
+    border: 1px solid violet;
+    width: 399px;
+    height: 328px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 15px 
+       rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-right: 37px;
+    margin-bottom: 41px;
+    border-style: none;
+    
+}
+img{
+    width: 399px;
+    height: 160px;
+}
+.section3-cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 95px;
+    margin-left: 84px;   
+}
+.section3-h2{
+    margin-left: 121px;
+    width: 905px;
+    height: 93px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 56px;
+}
+.cards-h5{
+    width: 365px;
+    height: 39px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 39px;
+    margin-top: 11px;
+    margin-left: 20px;
+}
+.cards-p{
+    width: 365px;
+    height: 63px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 32px;
+    margin-left: 19px;
+    margin-top: -32px;
+}
+.header{
+    line-height: 29px;
+}
